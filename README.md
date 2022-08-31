@@ -1,6 +1,6 @@
 # ecommerce_store-reactjs
 
-##Technologies Used
+## Technologies Used
 - Reactjs
 - React-Bootstrap
 - Fake Store API https://fakestoreapi.com/products
